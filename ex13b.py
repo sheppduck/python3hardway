@@ -6,13 +6,13 @@ from sys import argv
 # I tested answering w/o a boolean response and
 # The input was accepted and printed back out to stdout
 
-label = bool
+script, label = argv
 
-print("What script would you like to run?", end=' ')
-script = input()
+print("What script would you like to run?", script)
+# script = input()
 
-print("The POD has no Vulnerabilies:", end=' ')
-label = input()
+print("The POD has no Vulnerabilies:", label)
+# label = input()
 
 print("The test case that was executed was:", end=' ')
 test = input()
