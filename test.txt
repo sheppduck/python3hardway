@@ -1,1 +1,3 @@
-this is joels test file
+this is joels test file line 1
+this is joels test file line 2
+this is joels test file line 3
