@@ -32,6 +32,7 @@ print_all(current_file)
 
 print("Now let's rewind, kind of like tape.")
 
+
 # Now we call rewind and go back to the 0th position in our file
 rewind(current_file)
 
