@@ -1,3 +1,10 @@
+# ======================================
+# Author: Joel Sheppard
+# Learn Python the Hard Way ex 26 (Test)
+# I fixed this file in <15 minutes!
+# Checkout exercize26.txt for original
+# ======================================
+
 from sys import argv
 script, filename = argv
 
