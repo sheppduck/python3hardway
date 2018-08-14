@@ -26,6 +26,10 @@ for i in range(0, 6):
     print(f"Adding {i} to the list.")
     # append i
     elements.append(i)
+    # reverse list
+    elements.reverse()
+    # sort and reverse i - same but different (and dumb, lol)
+    elements.sort(reverse=True)
 
 # Let's print them out
 for i in elements:
