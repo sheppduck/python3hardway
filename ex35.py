@@ -1,7 +1,7 @@
 # =================================
 ##  Joel Sheppard - ex35
 ## Learn Python3 the Hard way
-## Let's access elements in a list
+## Typing in a game
 # =================================
 from sys import exit
 
@@ -75,7 +75,7 @@ def start():
     elif choice == "right":
         cthulhu_room()
     else:
-        dead("You stumble around the room nutio you starve.")
+        dead("You stumble around the room until you starve.")
 
 
 start()
