@@ -70,7 +70,7 @@ def start():
     elif choice == "right":
         yeti()
     else:
-        oh_snap("You can't fuck with us, you're dead Mother Fucker!!!!!!")
+        oh_snap("You can't fuck with us dude, you're a dead Mother Fucker!!!!!!")
 
 
 start()
