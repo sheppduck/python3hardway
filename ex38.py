@@ -47,3 +47,4 @@ while len(worker) != 12:
 
 
 print (worker)
+print(worker.index('Sun'))
