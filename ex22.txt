@@ -1,0 +1,11 @@
+Symbols, words, etc.
+
+Print statement print("something")
+# symbol - comments out code, add comments to code, add TODO, etc.
+Math - formulas and other math can be easily done with python  print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
+Variables - learned how to setup vars.  e.g. Result1 = 'pass' Result2 = 'fail'
+Concatenation - using + to cat things together (like Linux itself..)
+Libraries and Imports - learned how to import libs
+Newline - \n for a new line
+Triple singe and triple double quotes - both are the same and only in rare cases where a string already has triple quotes would one need to escape that
+Functions - def and the structure of a function in python
